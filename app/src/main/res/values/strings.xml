@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chulso</string>
+    <string name="behind">Недолет</string>
+    <string name="ahead">Пролетел</string>
+    <string name="hit">в точку</string>
+    <string name="input_value">ввести значение</string>
+    <string name="play_more">сыграть еще</string>
+    <string name="try_to_guess">попробуйте угалать число 1( &#8221; 100</string>
+    <string name="error">ytdthysq ddjl</string>
+</resources>
